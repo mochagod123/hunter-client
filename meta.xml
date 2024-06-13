@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Hunter Client</name>
+  <coder>Mocha Chan</coder>
+  <version>1.0</version>
+  <short_description>Minecraft WiiU Client</short_description> 
+  <long_description>
+    https://discord.gg/AGacpYNAeH
+  </long_description> 
+
+</app>
