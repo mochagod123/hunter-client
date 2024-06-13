@@ -5,4 +5,6 @@
 コマンド一覧<br>
 ・q-clientのコマンド<br>
 ・/q xyz on | off<br>
-・/q fps on | off<br>
+・/q fps on | off<br><br>
+main.zipにHunterClient v1.0 (q-client)のソースがあります。<br>
+使いたかったらどうぞ、、
